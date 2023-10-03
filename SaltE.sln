@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{5EA72985-50B9-47D7-BFE4-E35411C99A07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaltE", "SaltE\SaltE.vcxproj", "{3AEEEF11-AD8C-4E5D-AE30-B2FDFC6E69D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AEEEF11-AD8C-4E5D-AE30-B2FDFC6E69D4}.Debug|x64.ActiveCfg = Debug|x64
+		{3AEEEF11-AD8C-4E5D-AE30-B2FDFC6E69D4}.Debug|x64.Build.0 = Debug|x64
+		{3AEEEF11-AD8C-4E5D-AE30-B2FDFC6E69D4}.Release|x64.ActiveCfg = Release|x64
+		{3AEEEF11-AD8C-4E5D-AE30-B2FDFC6E69D4}.Release|x64.Build.0 = Release|x64
+		{5EA72985-50B9-47D7-BFE4-E35411C99A07}.Debug|x64.ActiveCfg = Debug|x64
+		{5EA72985-50B9-47D7-BFE4-E35411C99A07}.Debug|x64.Build.0 = Debug|x64
+		{5EA72985-50B9-47D7-BFE4-E35411C99A07}.Release|x64.ActiveCfg = Release|x64
+		{5EA72985-50B9-47D7-BFE4-E35411C99A07}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BAD517C-2A09-41B0-B091-C478555200E3}
+	EndGlobalSection
+EndGlobal
