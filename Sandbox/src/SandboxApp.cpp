@@ -1,4 +1,4 @@
-#include <SaltE.h>
+#include <SaltE/SaltE.h>
 
 class Sandbox : public SaltE::Application
 {

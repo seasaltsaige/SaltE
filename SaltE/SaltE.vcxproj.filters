@@ -21,15 +21,21 @@
     <ClInclude Include="src\SaltE\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\SaltE.h">
+    <ClInclude Include="src\SaltE\SaltE.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\SaltE\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\SaltE\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\SaltE\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SaltE\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

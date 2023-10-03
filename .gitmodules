@@ -1,0 +1,3 @@
+[submodule "SaltE/vendor/spdlog"]
+	path = SaltE/vendor/spdlog
+	url = https://github.com/gabime/spdlog
